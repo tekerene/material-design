@@ -1,0 +1,37 @@
+button {
+    margin-right: 3rem;
+}
+div {
+    padding-bottom: 0.5rem;
+}
+.navbar{
+    justify-content: space-between;
+}
+span {
+    padding-right: 1rem;
+}
+mat-sidenav-container {
+    height: 100%;
+}
+mat-sidenav, mat-sidenav-content {
+    padding: 16px;
+}
+mat-sidenav {
+    background-color: lightcoral;
+    width: 200px;
+}
+table {
+    border: 1px solid #456;
+}
+thead {
+    border: 1px solid #345;
+    margin-right: 23px;
+    font-weight: 800;
+    font-size: 20px;
+}
+thead td {
+    border: 3px solid rgb(22, 27, 29);
+}
+td, tr {
+    border: 2px solid rgb(34, 31, 31);
+}
